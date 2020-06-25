@@ -1,0 +1,24 @@
+{
+  "name": "simple-tweet",
+  "version": "1.0.0",
+  "description": "simple twitter tweet with playwright",
+  "main": "app.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "playwright": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elfacu0/playwright-simple-tweet.git"
+  },
+  "author": "k",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elfacu0/playwright-simple-tweet/issues"
+  },
+  "homepage": "https://github.com/elfacu0/playwright-simple-tweet#readme"
+}
